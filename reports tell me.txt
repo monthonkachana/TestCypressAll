@@ -1,0 +1,4 @@
+npx cypress run --spec cypress/e2e/Test/Fixture.cy.js
+รัน
+
+copy path ของ index.html ไปวาง web
