@@ -1,4 +1,7 @@
 npx cypress run --spec cypress/e2e/Test/Fixture.cy.js
 รัน
-
 copy path ของ index.html ไปวาง web
+*** ไม่สามารถ ใช้ command seesion ในการทำ report HTML ได้
+
+https://docs.google.com/document/d/1SdpooJir8VQVsoQMfWeSMVO_OfmUmQ2-OfLRRx0pOOg/edit
+
