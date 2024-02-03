@@ -1,3 +1,4 @@
+/// <reference types="cypress"/>
 describe("UserTester", () => {
   const users = [
     { username: "test", password: "test" },
