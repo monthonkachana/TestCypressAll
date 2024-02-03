@@ -7,7 +7,7 @@ module.exports = defineConfig({
   reporterOptions: {
     reportPageTitle: "TESTMAX",
     ignoreVideos: false,
-    debug: true,
+    debug: false,
   },
   e2e: {
     baseUrl: "http://www.smart-insect.com:3005/",
